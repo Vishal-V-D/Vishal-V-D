@@ -8,21 +8,12 @@ I'm Vishal VD, an emerging Computer Science and Business System student with a s
 
 As a CSBS student, I focus on leveraging technology to solve real-world problems. My current interests include AI development, software engineering, and exploring the latest advancements in these fields. I am committed to learning and growing in these domains to build impactful projects and solutions.
 
-## 💻 LeetCode Achievements
-
-Here are some of my LeetCode achievements, represented through badges:
-
-1. **LeetCode Problem Solving:**
-   ![LeetCode Badge 50](https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/50.gif)
-
-2. **LeetCode Progress - July:**
-   ![LeetCode Badge July](https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/july7.gif)
-
-3. **LeetCode Progress - June:**
-   ![LeetCode Badge June](https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/jun.gif)
-
-4. **LeetCode Top Achievement:**
-   ![LeetCode Badge 100](https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/100.gif)
+| **Achievement**               | **Badge**                                                                                  |
+|-------------------------------|--------------------------------------------------------------------------------------------|
+| **LeetCode Badge 50**         | ![LeetCode Badge 50](https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/50.gif) |
+| **LeetCode Badge July**       | ![LeetCode Badge July](https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/july7.gif) |
+| **LeetCode Badge June**       | ![LeetCode Badge June](https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/jun.gif) |
+| **LeetCode Badge 100**        | ![LeetCode Badge 100](https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/100.gif) |
 
 
 
