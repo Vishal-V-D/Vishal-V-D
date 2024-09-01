@@ -13,10 +13,10 @@ As a CSBS student, I focus on leveraging technology to solve real-world problems
 Here are some of my LeetCode achievements:
 
 <p align="center">
-  <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/50.gif" alt="LeetCode Badge 50" width="100"/>
-  <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/july7.gif" alt="LeetCode Badge July" width="100"/>
-  <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/jun.gif" alt="LeetCode Badge June" width="100"/>
-  <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/100.gif" alt="LeetCode Badge 100" width="100"/>
+  <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/50.gif" alt="LeetCode Badge 50" width="150"/>
+  <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/july7.gif" alt="LeetCode Badge July" width="150"/>
+  <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/jun.gif" alt="LeetCode Badge June" width="150"/>
+  <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/100.gif" alt="LeetCode Badge 100" width="150"/>
 </p>
 
 ## 📈 GitHub Stats
