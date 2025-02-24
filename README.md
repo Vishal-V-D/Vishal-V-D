@@ -13,6 +13,7 @@ As a CSBS student, I focus on leveraging technology to solve real-world problems
 Here are some of my LeetCode achievements:
 
 <p align="center">
+  <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/c80b105066c60ec5bd4140ae0dccf3d63a56f391/Knight.gif" alt="LeetCode Knight Badge " width="150"/>
   <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/50.gif" alt="LeetCode Badge 50" width="150"/>
   <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/july7.gif" alt="LeetCode Badge July" width="150"/>
   <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/jun.gif" alt="LeetCode Badge June" width="150"/>
