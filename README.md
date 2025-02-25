@@ -26,8 +26,7 @@ Here are some of my LeetCode achievements:
 Showcasing my achievements from various certification programs:
 
 <p align="center">
-  <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/eec808ae00287dacc2a48db905656a6ee99b6ed1/Intro2IoT.png
-" alt="Certification Badge 1" width="150"/>
+  <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/797281d7f212595b1b4698fec4767a0f8d1872d6/Intro2IoT.png" alt="Certification Badge 1" width="150"/>
   <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/eec808ae00287dacc2a48db905656a6ee99b6ed1/image.png" alt="Certification Badge 2" width="150"/>
   <img src="YOUR_CERTIFICATE_BADGE_3_URL" alt="Certification Badge 3" width="150"/>
 </p>
