@@ -26,16 +26,23 @@ Here are some of my LeetCode achievements:
 Showcasing my achievements from various certification programs:
 
 
-<p align="center">
-  <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/c573ff68ece94de51bcf01b26bb7fb94141d9414/aws-certified-cloud-practitioner.png" 
-       alt="AWS Cloud Practitioner" width="150" style="margin: 10px;"/>
-  <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/797281d7f212595b1b4698fec4767a0f8d1872d6/Intro2IoT.png" 
-       alt="Certification Badge 1" width="150" style="margin: 10px;"/>
-  <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/eec808ae00287dacc2a48db905656a6ee99b6ed1/image.png" 
-       alt="Certification Badge 2" width="150" style="margin: 10px;"/>
-  <img src="YOUR_CERTIFICATE_BADGE_3_URL" 
-       alt="Certification Badge 3" width="150" style="margin: 10px;"/>
-</p>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px;">
+    <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/c573ff68ece94de51bcf01b26bb7fb94141d9414/aws-certified-cloud-practitioner.png" 
+         alt="AWS Cloud Practitioner" width="150" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);"/>
+    <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/f0fbb93e5fb02a33c05ca988ac9673f0c0fcce2b/google-cybersecurity-certificate.png" 
+         alt="Google Cybersecurity Certificate" width="150" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);"/>
+    <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/f0fbb93e5fb02a33c05ca988ac9673f0c0fcce2b/google-ai-essentials.png" 
+         alt="Google AI Essentials" width="150" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);"/>
+    <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/797281d7f212595b1b4698fec4767a0f8d1872d6/Intro2IoT.png" 
+         alt="Intro to IoT" width="150" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);"/>
+    <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/eec808ae00287dacc2a48db905656a6ee99b6ed1/image.png" 
+         alt="Certification Badge 2" width="150" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);"/>
+    <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/f0fbb93e5fb02a33c05ca988ac9673f0c0fcce2b/meta-front-end-developer-certificate.png" 
+         alt="Meta Front-End Developer Certificate" width="150" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);"/>
+  </div>
+</div>
+
 
 
 ## 📈 GitHub Stats
