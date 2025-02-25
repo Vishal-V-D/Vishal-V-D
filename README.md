@@ -21,6 +21,16 @@ Here are some of my LeetCode achievements:
   <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/a8c74db966f347b0c41ca84c23044f9ccc08b15a/100.gif" alt="LeetCode Badge 100" width="150"/>
 </p>
 
+## 🏅 Certifications & Badges
+
+Showcasing my achievements from various certification programs:
+
+<p align="center">
+  <img src="YOUR_CERTIFICATE_BADGE_1_URL" alt="Certification Badge 1" width="150"/>
+  <img src="YOUR_CERTIFICATE_BADGE_2_URL" alt="Certification Badge 2" width="150"/>
+  <img src="YOUR_CERTIFICATE_BADGE_3_URL" alt="Certification Badge 3" width="150"/>
+</p>
+
 ## 📈 GitHub Stats
 
 ![Vishal VD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal-V-D&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
