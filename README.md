@@ -26,7 +26,8 @@ Here are some of my LeetCode achievements:
 Showcasing my achievements from various certification programs:
 
 <p align="center">
-  <img src="YOUR_CERTIFICATE_BADGE_1_URL" alt="Certification Badge 1" width="150"/>
+  <img src="https://github.com/user-attachments/assets/725f25be-a764-4734-9c03-1b1a96bf543e
+" alt="Certification Badge 1" width="150"/>
   <img src="YOUR_CERTIFICATE_BADGE_2_URL" alt="Certification Badge 2" width="150"/>
   <img src="YOUR_CERTIFICATE_BADGE_3_URL" alt="Certification Badge 3" width="150"/>
 </p>
