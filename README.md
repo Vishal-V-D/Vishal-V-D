@@ -50,29 +50,16 @@ I'm **Vishal VD**, an aspiring Computer Science and Business Systems (CSBS) stud
 - **Other:** Data Structures & Algorithms, System Design, UI/UX Design
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-V-D&show_icons=true&count_private=true&hide_title=true&hide_border=true&include_all_commits=true&theme=dark" alt="Vishal VD's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-V-D&hide_border=true&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-V-D&layout=compact&hide_border=true&theme=dark&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishal-V-D&theme=github_dark" alt="Profile Details Card" />
+  <!-- Profile Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishal-V-D&theme=github_dark" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishal-V-D&theme=github_dark" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishal-V-D&theme=github_dark" alt="Most Commit Language" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vishal-V-D&theme=github-compact" alt="Contribution Graph" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishal-V-D&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
-</p>
----
 
 ## 🤝 Let's Connect
 
