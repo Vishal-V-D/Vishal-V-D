@@ -64,8 +64,8 @@ I'm **Vishal VD**, an aspiring Computer Science and Business Systems (CSBS) stud
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vishal-v-d/)
-- 📫 Email: vishalvd@example.com (replace with your actual email)
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(Add if you have one)*
+- 📫 Email: vishalvd006@gmail.com
+
 
 ---
 
