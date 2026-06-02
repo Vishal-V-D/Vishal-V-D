@@ -31,6 +31,7 @@ I'm **Vishal VD**, an aspiring Computer Science and Business Systems (CSBS) stud
 ## 📜 Certifications & Badges
 
 <p align="center">
+    <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/c573ff68ece94de51bcf01b26bb7fb94141d9414/aws-certified-cloud-practitioner.png alt="AWS Cloud Practitioner" width="130"/>
   <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/c573ff68ece94de51bcf01b26bb7fb94141d9414/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="130"/>
   <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/f0fbb93e5fb02a33c05ca988ac9673f0c0fcce2b/google-cybersecurity-certificate.png" alt="Google Cybersecurity Certificate" width="130"/>
   <img src="https://github.com/Vishal-V-D/Vishal-V-D/blob/f0fbb93e5fb02a33c05ca988ac9673f0c0fcce2b/google-ai-essentials.png" alt="Google AI Essentials" width="130"/>
