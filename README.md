@@ -267,17 +267,14 @@ const vishal_vd = {
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   "The people who are crazy enough to think they can         │
-│    change the world are the ones who do."  — Steve Jobs      │
-│                                                              │
-│        Write code like no one is watching.                   │
-│        Deploy like everyone is.  🚀                          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<pre>
+┌─ ENGINEER'S LAW ───────────────────────┐
+
+   Nobody cares how hard it was.
+      They care if it works.
+
+└────────────────────────────────────────┘
+</pre>
 
 **⭐ If something here helped you, drop a star on a repo!**
 
