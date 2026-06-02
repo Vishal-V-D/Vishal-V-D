@@ -205,7 +205,7 @@ const vishal_vd = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=Vishal-V-D&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <br/>
 
@@ -234,7 +234,6 @@ const vishal_vd = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-V-D&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=12&langs_count=8" alt="Top Languages"/>
 
 </div>
 
